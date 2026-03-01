@@ -637,9 +637,10 @@ section { padding: clamp(4rem, 8vw, 7rem) 0; }
 
 /* ===== Footer ===== */
 footer {
-  background: #fff;
+  background: #ffffff;
   border-top: 1px solid #e5e7eb;
   padding: 3rem 0 2rem;
+  color: #111827;
 }
 
 .footer-inner {
