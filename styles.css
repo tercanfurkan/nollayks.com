@@ -101,6 +101,7 @@ section { padding: clamp(4rem, 8vw, 7rem) 0; }
   background: #fff;
   box-shadow: 0 1px 0 #e5e7eb;
   transition: box-shadow var(--transition), padding var(--transition);
+  color-scheme: light;
 }
 
 #navbar.scrolled {
@@ -637,10 +638,11 @@ section { padding: clamp(4rem, 8vw, 7rem) 0; }
 
 /* ===== Footer ===== */
 footer {
-  background: #ffffff;
+  background: #fff;
   border-top: 1px solid #e5e7eb;
   padding: 3rem 0 2rem;
   color: #111827;
+  color-scheme: light;
 }
 
 .footer-inner {
